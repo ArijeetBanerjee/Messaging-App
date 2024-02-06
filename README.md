@@ -48,8 +48,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 3)npm start.\
 4)Then open another terminal and go to server location.\
 5)cd server.\
-6)npm start(To start the backend server).\
+6)npm start(To start the backend server which is runing in port 8000).\
 7)Then open another 3rd terminal .\
 8)cd socket.\
-9)npm start(To start the socket.io for Live Chatting).\
+9)npm start(To start the socket.io for Live Chatting which is running in port 9000).\
 
