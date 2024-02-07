@@ -10,8 +10,13 @@ https://github.com/ArijeetBanerjee/Messaging-App/assets/76873956/d25deee2-2a77-4
 https://github.com/ArijeetBanerjee/Messaging-App/assets/76873956/e87e0a94-0fa4-4463-a2c9-c757bd4be9bd
 
 
+#Profile and Search Working
 
 
+
+
+
+https://github.com/ArijeetBanerjee/Messaging-App/assets/76873956/bb919966-26c6-47d6-bb30-a571b7d697c4
 
 
 
