@@ -1,6 +1,14 @@
 # Messaging-App
 Developed a web based messaging application using MERN stack (MongoDB, Express.js, React and Node.js) and it uses socket.io for realtime messaging. Key features include user authentication, search for users, chat in realtime, online/offline status etc.
 
+# How it works
+
+https://github.com/ArijeetBanerjee/Messaging-App/assets/76873956/d25deee2-2a77-40c3-a2b2-88e791d9ce5e
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
